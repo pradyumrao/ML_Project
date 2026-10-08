@@ -1,10 +1,10 @@
-## 🚀 Live Demo
+# Liver Cirrhosis Stage Prediction Using Mayo Clinic Data
 
+## 🚀 Live Demo
 You can test the live application here:  
 👉 **[Liver Cirrhosis Prediction App](https://liver-cirrhosis-prediction.streamlit.app)**
-Machine learning project to predict the stages of liver cirrhosis using XGBoost classifier
 
-# Liver Cirrhosis Stage Prediction Using Mayo Clinic Data
+Machine learning project to predict the stages of liver cirrhosis using data from the Mayo Clinic.
 This project aims to predict the stages of liver cirrhosis using data from the Mayo Clinic. It involves various machine learning models evaluated for their effectiveness in classification tasks. The project is structured into four main sections: Data Overview, Insights into the Model, Prediction, and Conclusion.
 
 #Table of Contents
