@@ -1,4 +1,8 @@
-# ML_Project
+### 🚀 Live Demo
+
+You can test the live application here:  
+👉 **[Liver Cirrhosis Prediction App](https://liver-cirrhosis-prediction.streamlit.app)**
+ ML_Project
 
 Machine learning project to predict the stages of liver cirrhosis using XGBoost classifier
 
